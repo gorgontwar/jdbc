@@ -5,10 +5,10 @@ xsi:schemaLocation="http://org.jenkinsci.plugins/WeblogicDeploymentPlugin plugin
 <weblogic-targets>
     <weblogic-target>
         <name>AdminSever</name>
-        <host>localhost</host>
-        <port>7001</port>
+        <host>10.92.28.128</host>
+        <port>8080</port>
         <login>weblogic</login>
-        <password>weblogic123</password>
+        <password>W3bpr0d@tm0</password>
         <authMode>BY_LOGIN</authMode>
     </weblogic-target>
  </weblogic-targets>
